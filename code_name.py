@@ -84,7 +84,7 @@ def main():
     print(VALID_AA_LETTERS)
     print("\nOther letters (e.g. B, J, O, U, X, Z) will be encoded as 'NNN'.\n")
 
-    name = input("Enter a name (e.g. PRACHI, SACHIN): ").strip()
+    name = input("Enter a name (e.g. PRACHI): ").strip()
     if not name:
         print("No input provided. Exiting.")
         return
