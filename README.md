@@ -49,4 +49,3 @@ Some example encodings:
 ```text
 PRACHI  -> CCT-CGC-GCC-TGC-CAC-ATC
 
-[![Kaggle Notebook](https://kaggle.com/static/images/open-in-kaggle.svg)](your-kaggle-link-here)
