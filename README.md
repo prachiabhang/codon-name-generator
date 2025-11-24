@@ -6,11 +6,9 @@ Fun tool to convert names into codon-optimised DNA sequences
 Simple tool to encode names as **codon-based DNA sequences**, using roughly
 **human-biased codon usage** for the 20 standard amino acids.
 
-## 🚀 Try it on Kaggle
+## Try it on Kaggle
 
-Run the interactive notebook here:
-
-[![Kaggle Notebook](https://kaggle.com/static/images/open-in-kaggle.svg)](https://www.kaggle.com/code/prachiabhang/codon-name-generator)
+Run the interactive notebook here: [![Kaggle Notebook](https://kaggle.com/static/images/open-in-kaggle.svg)](https://www.kaggle.com/code/prachiabhang/codon-name-generator)
 
 
 The idea:
